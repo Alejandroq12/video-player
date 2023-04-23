@@ -26,3 +26,10 @@ h1 {
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
 }
+
+@media(max-width: 800px) {
+  .screen,
+  .controls {
+    width: 90%;
+  }
+}
