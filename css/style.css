@@ -21,15 +21,61 @@ h1 {
 
 .screen {
   cursor: pointer;
-  width: 50%;
+  width: 90%;
   background-color: #000 !important;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
 }
 
-@media(max-width: 800px) {
+.controls {
+  background: #333;
+  color: #fff;
+  width: 90%;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  display: flex;
+  align-items: center;
+  padding: 10px;
+}
+
+.controls .btn {
+  border: 0;
+  background: transparent;
+  cursor: pointer;
+}
+
+.controls .fa-play {
+  color: #28a745;
+}
+
+.controls .fa-stop {
+  color: #dc3545;
+}
+
+.controls .fa-pause {
+  color: #fff;
+}
+
+.controls .timestamp {
+  color: #fff;
+  font-weight: bold;
+  margin-left: 10px;
+}
+
+.btn:focus {
+  outline: none;
+}
+
+@media (min-width: 760px) {
   .screen,
   .controls {
-    width: 90%;
+    width: 40%;
+  }
+}
+
+@media (min-width: 1024px) {
+  .screen,
+  .controls {
+    width: 40%;
   }
 }
