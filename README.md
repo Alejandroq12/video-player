@@ -4,7 +4,7 @@
   <img src="assets/logo.png" alt="logo" width="450"  height="auto" />
   <br/>
 
-  <h3><b>Form Validator</b></h3>
+  <h3><b>Custom Video Player</b></h3>
 
 </div>
 
@@ -13,7 +13,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 Form Validator ](#-form-validator-)
+- [📖 Custom Video Player ](#-custom-video-player-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -35,9 +35,10 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Form Validator <a name="about-project"></a>
+# 📖 Custom Video Player <a name="about-project"></a>
 
-Form Validator is a website that uses JavaScript to save data in the local storage, allows you to calculate the number of seats/price, it shows the occupied seats and the selected ones. It has a simple interfaces as it was only created to practice DOM manipulation.
+This is a custom video player created to practice CSS, HTML, and JavaScript.
+
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -57,8 +58,7 @@ Form Validator is a website that uses JavaScript to save data in the local stora
 ### Key Features <a name="key-features"></a>
 
 
-- **Validata data.**
-- **Clean code.**
+- **Custom video player**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -67,7 +67,7 @@ Form Validator is a website that uses JavaScript to save data in the local stora
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [Live Demo Link](https://alejandroq12.github.io/form-validator/)
+- [Live Demo Link](https://alejandroq12.github.io/video-player/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -92,7 +92,7 @@ Clone this repository to your desired folder:
 
 ```
   cd my-folder
-  git clone https://github.com/Alejandroq12/form-validator.git
+  git clone https://github.com/Alejandroq12/video-player.git
 ```
 
 
@@ -167,7 +167,8 @@ If you like this project please give me a star.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Traversy Media for his amazing content and his amazing learning platform.
+I would like to thank Traversy Media for his amazing content and incredible learning platform.
+I would like to thank CSS Tricks because I found the code for custom video controls there.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -177,7 +178,7 @@ I would like to thank Traversy Media for his amazing content and his amazing lea
 
 - **What did you learn?**
 
-  - I learned a lot about data validation.
+  - I learned a lot about event listeners.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
